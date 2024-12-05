@@ -16,25 +16,27 @@ dl{
     color: rgb(206, 203, 15);
 
 }
-main #first-section-spacer{
-    width:11%;
-    display: inline-block;
-}
+
 main #first-section-content{
+    text-align: center;
     padding-left: 100px;
     padding-right: 100px;
     /* background-color: aquamarine; */
-    display: inline-block;
 }
 main section:nth-child(1){
     background-color: gray;
+    padding: 30px;
 }
 main #second-section-spacer{
     width: 10%;
     display: inline-block;}
 
 main .feature-section{
+    text-align: center;
     display: inline-block;
-    margin-left: 150px;
-    width: 100px;
+    width: 33%;
+}
+
+section img{
+
 }
