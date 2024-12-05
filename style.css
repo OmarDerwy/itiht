@@ -1,0 +1,40 @@
+nav a{
+    float: left;    
+}
+nav{
+    background-color: rgb(59, 59, 59);
+    height: 60px;
+}
+
+dl{
+    float: right;
+    margin-right: 50px;
+}
+#nav-item{
+    float: left;
+    margin-left: 20px;
+    color: rgb(206, 203, 15);
+
+}
+main #first-section-spacer{
+    width:11%;
+    display: inline-block;
+}
+main #first-section-content{
+    padding-left: 100px;
+    padding-right: 100px;
+    /* background-color: aquamarine; */
+    display: inline-block;
+}
+main section:nth-child(1){
+    background-color: gray;
+}
+main #second-section-spacer{
+    width: 10%;
+    display: inline-block;}
+
+main .feature-section{
+    display: inline-block;
+    margin-left: 150px;
+    width: 100px;
+}
